@@ -1,0 +1,81 @@
+customer_id,customer_name,gender,age,country,city,purchase_date,annual_income,purchase_amount,customer_segment
+C1001,Sneha,Male,58.0,India,Hyderabad,21-05-2025,90856.5,1237.82,VIP
+C1002,Meera,Female,56.0,United States,Bengaluru,,24956.0,17056.73,regular
+C1003,Rahul,Female,31.0,India,Pune,14-07-2025,106236.0,3515.2,VIP
+C1004,Rahul,Female,36.0,India,Mysuru,27-12-2025,112800.0,17531.89,standard
+C1005,Karan,Male,41.0,India,Mysuru,,60638.0,11420.34,Standard
+C1006,Sneha,Female,62.0,India,Mysuru,,75570.0,20696.12,Standard
+C1007,Meera,Female,47.0,United Kingdom,Hyderabad,,55452.0,8313.96,VIP
+C1008,Priya,Other,41.0,United Kingdom,Hyderabad,,41831.0,22795.57,standard
+C1009,Aditya,Female,18.0,United Kingdom,Mysuru,,90856.5,20610.46,Standard
+C1010,Nikhil,Female,34.0,United States,Mysuru,,149225.0,22977.88,standard
+C1011,Arjun,Female,51.0,United States,Mysuru,08-09-2025,18149.0,18168.87,Regular
+C1012,Aditya,Other,23.0,India,Mumbai,,145399.0,24572.69,standard
+C1013,Karan,Other,64.0,Canada,Bengaluru,,70730.0,21531.99,VIP
+C1014,Rahul,Male,53.0,India,Delhi,04-01-2025,78323.0,17858.98,premium
+C1015,Pooja,Other,31.0,United States,Bengaluru,20-10-2025,52684.0,21838.9,premium
+C1016,Rahul,Female,47.0,India,Mysuru,,32200.0,20364.25,premium
+C1017,Anjali,Male,41.0,India,Bengaluru,,91018.0,14147.53,regular
+C1018,Vikram,Other,43.0,Canada,Mysuru,,33370.0,5356.8,VIP
+C1019,Arjun,Male,41.0,India,Mysuru,30-01-2025,33979.0,22565.28,regular
+C1020,Sneha,Male,43.0,United Kingdom,Delhi,,90856.5,28277.09,regular
+C1021,Aman,Male,41.0,India,Bengaluru,,121752.0,4360.91,Premium
+C1022,Anjali,Female,22.0,India,Mumbai,22-03-2025,82037.0,11401.05,Regular
+C1023,Sneha,Female,24.0,United States,Pune,,58749.0,8534.27,Regular
+C1024,Arjun,Male,58.0,United States,Mysuru,,129037.0,24965.77,Regular
+C1025,Nikhil,Male,25.0,India,Hyderabad,,90856.5,28379.0,standard
+C1026,Karan,Other,20.0,India,Mysuru,,111797.0,6697.26,premium
+C1027,Aditya,Female,19.0,India,Hyderabad,20-06-2025,65018.0,22228.65,standard
+C1028,Sneha,Female,47.0,United States,Bengaluru,,109660.0,9503.13,Standard
+C1029,Nikhil,Male,52.0,United States,Bengaluru,01-03-2025,104808.0,28207.5,standard
+C1030,Rahul,Female,38.0,United Kingdom,Bengaluru,,132398.0,18383.16,Standard
+C1031,Meera,Female,39.0,United Kingdom,Hyderabad,,100291.0,20069.93,Standard
+C1032,Vikram,Male,42.0,United States,Hyderabad,,63620.0,18657.69,regular
+C1033,Karan,Female,50.0,United States,Mumbai,,142042.0,23915.19,Regular
+C1034,Anjali,Female,33.0,United Kingdom,Pune,,142554.0,18532.58,Regular
+C1035,Rohan,Female,24.0,India,Pune,,129449.0,6955.81,VIP
+C1036,Pooja,Other,56.0,Canada,Mysuru,,101177.0,28526.17,standard
+C1037,Anjali,Male,58.0,United States,Mysuru,,90695.0,23091.5,Regular
+C1038,Priya,Male,26.0,United Kingdom,Pune,,90856.5,7322.21,premium
+C1039,Vikram,Female,55.0,United Kingdom,Hyderabad,,23120.0,25773.59,premium
+C1040,Aditya,Male,19.0,India,Bengaluru,,119936.0,10415.82,Regular
+C1041,Priya,Other,59.0,Canada,Delhi,,130358.0,4503.13,standard
+C1042,Arjun,Male,44.0,United Kingdom,Mysuru,29-08-2025,84131.0,25129.87,standard
+C1043,Pooja,Male,19.0,India,Mysuru,,82823.0,6381.14,regular
+C1044,Aman,Male,56.0,United Kingdom,Hyderabad,,48024.0,23444.86,Standard
+C1045,Kavya,Male,33.0,India,Delhi,,44712.0,21067.19,Standard
+C1046,Rahul,Female,39.0,Canada,Mysuru,,21316.0,25562.48,Standard
+C1047,Aman,Female,35.0,India,Mumbai,,144745.0,14213.78,VIP
+C1048,Kavya,Other,60.0,United States,Delhi,,117349.0,10423.7,Premium
+C1049,Rahul,Other,53.0,United States,Pune,,20661.0,18383.16,Premium
+C1050,Karan,Other,32.0,United Kingdom,Hyderabad,,124011.0,20907.72,Premium
+C1051,Neha,Male,34.0,Canada,Mumbai,,78434.0,4059.35,Premium
+C1052,Meera,Female,41.0,India,Mumbai,,112602.0,5793.53,Regular
+C1053,Neha,Male,18.0,Canada,Bengaluru,,92537.0,14347.21,Standard
+C1054,Aman,Female,61.0,United Kingdom,Mysuru,,32053.0,4975.95,standard
+C1055,Arjun,Male,55.0,United States,Mysuru,,130415.0,9508.72,regular
+C1056,Anjali,Other,53.0,United States,Mumbai,,37677.0,5117.71,Standard
+C1057,Pooja,Female,32.0,United States,Mysuru,,87351.0,23740.93,regular
+C1058,Meera,Other,37.0,Canada,Pune,28-08-2025,93657.0,13455.03,Standard
+C1059,Karan,Male,38.0,United States,Bengaluru,,83632.0,1263.01,Premium
+C1060,Rahul,Other,29.0,India,Mysuru,,132264.0,19226.15,Standard
+C1061,Aman,Other,43.0,India,Pune,,90856.5,13917.36,VIP
+C1062,Aman,Female,49.0,Canada,Bengaluru,15-04-2025,133878.0,22919.72,regular
+C1063,Rohan,Female,63.0,India,Pune,08-01-2025,59517.0,9667.13,Standard
+C1064,Anjali,Male,36.0,India,Bengaluru,,89676.0,12756.97,Premium
+C1065,Meera,Other,50.0,Canada,Pune,,88037.0,24706.21,premium
+C1066,Sneha,Female,47.0,United Kingdom,Bengaluru,,102352.0,26153.25,standard
+C1067,Priya,Male,42.0,United Kingdom,Bengaluru,,119208.0,29658.21,Regular
+C1068,Priya,Female,64.0,United Kingdom,Bengaluru,,55789.0,12594.37,premium
+C1069,Pooja,Female,38.0,India,Hyderabad,19-01-2025,145912.0,26235.3,Regular
+C1070,Arjun,Male,46.0,United Kingdom,Hyderabad,,61611.0,20973.03,Standard
+C1071,Kavya,Female,29.0,India,Mysuru,,62560.0,5664.55,Standard
+C1072,Rohan,Other,18.0,United States,Hyderabad,,139963.0,27085.68,premium
+C1073,Neha,Female,41.0,United Kingdom,Mumbai,20-10-2025,45958.0,7497.57,Standard
+C1074,Aditya,Female,21.0,United States,Mumbai,,148214.0,25068.75,Standard
+C1075,Pooja,Male,20.0,United States,Delhi,,98984.0,23764.01,VIP
+C1076,Aman,Other,41.0,United States,Delhi,26-03-2025,149542.0,27447.87,standard
+C1077,Neha,Other,41.0,India,Pune,,122179.0,29034.46,VIP
+C1078,Anjali,Female,42.0,United States,Bengaluru,,115379.0,3696.21,premium
+C1079,Aman,Male,25.0,India,Hyderabad,,54641.0,1837.73,Standard
+C1080,Nikhil,Male,52.0,United Kingdom,Mumbai,21-03-2025,127871.0,17826.54,premium
